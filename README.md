@@ -10,3 +10,6 @@ Submission Analysis: Analyze user submissions for a given problem.
 User Profiles: View user profiles and their submission history.
 
 Problem Statistics: Get statistics about a particular problem.
+
+To Run the application locally
+> npm run dev
